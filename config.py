@@ -10,7 +10,7 @@ API_HASH = os.environ.get("API_HASH","f4483e5f1a61d19f27072aa81551859d")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8353176536:AAHonA4GEyuctgPSq2WnGArKcYCV0yKINqc")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@pratapcoursebot")
-BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
+BOT_TEXT = "PRATAP COURSE EXTRACT"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6134299100"))
 # ------------------------------------------------
@@ -22,7 +22,7 @@ CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003807806503"))
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003807806503"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "1-1003807806503"))
 # -----------------------------------------------
 join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
